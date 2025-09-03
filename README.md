@@ -1,1 +1,1 @@
-###Faster Whisper Speech To Text
+# Faster Whisper Speech To Text
